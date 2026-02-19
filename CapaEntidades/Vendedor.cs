@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CapaEntidades;
+
+namespace CapaEntidades
+{
+    public class Vendedor : Persona
+    {
+        #region Propiedades
+        public DateTime FechaIngreso { get; set; }
+        public string Telefono { get; set; }
+
+        #endregion
+        
+    }
+}

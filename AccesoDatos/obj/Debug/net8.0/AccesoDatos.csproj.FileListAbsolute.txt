@@ -1,0 +1,16 @@
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.sourcelink.json
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDa.B2719C34.Up2Date
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll

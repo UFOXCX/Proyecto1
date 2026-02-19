@@ -1,0 +1,12 @@
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\bin\Debug\net8.0\CapaEntidades.deps.json
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\bin\Debug\net8.0\CapaEntidades.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\bin\Debug\net8.0\CapaEntidades.pdb
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.sourcelink.json
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\refint\CapaEntidades.dll
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\CapaEntidades.pdb
+C:\Users\Extreme\source\repos\2026Clase1\Proyecto 1\CapaEntidades\obj\Debug\net8.0\ref\CapaEntidades.dll
